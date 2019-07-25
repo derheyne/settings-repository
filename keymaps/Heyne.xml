@@ -1,0 +1,11 @@
+<keymap version="1" name="Heyne" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Hg.Commit.And.Push.Executor" />
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+</keymap>
