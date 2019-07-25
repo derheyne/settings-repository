@@ -4,7 +4,7 @@
     <property name="created">2019-06-06T14:35:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-07-25T13:19:49</property>
+    <property name="modified">2019-07-25T14:40:51</property>
     <property name="originalScheme">Google - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -263,7 +263,9 @@
       </value>
     </option>
     <option name="DEFAULT_STRING">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="777777" />
+      </value>
     </option>
     <option name="DEFAULT_TAG">
       <value />
@@ -272,7 +274,9 @@
       <value />
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="fcbc05" />
+      </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
@@ -520,9 +524,6 @@
       <value>
         <option name="FOREGROUND" value="ea4334" />
       </value>
-    </option>
-    <option name="PHP_STRING">
-      <value />
     </option>
     <option name="PHP_VAR">
       <value />
