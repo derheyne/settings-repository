@@ -1,9 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
-    <option name="EDITOR_TAB_PLACEMENT" value="3" />
-    <option name="FONT_FACE" value="Dialog" />
-    <option name="FONT_SCALE" value="1.0" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
@@ -17,6 +14,5 @@
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
     <option name="SORT_BOOKMARKS" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
-    <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
   </component>
 </application>
