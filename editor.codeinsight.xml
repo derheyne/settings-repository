@@ -1,6 +1,5 @@
 <application>
   <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
@@ -15,8 +14,6 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
     <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
-    <option name="COLLAPSE_METHOD_BODY" value="true" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_ENTITIES" value="false" />
