@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Inspection Results" />
+    <notification groupId="Symfony Plugin" shouldLog="false" />
   </component>
 </application>
