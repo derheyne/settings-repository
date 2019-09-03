@@ -4,7 +4,7 @@
     <property name="created">2019-06-06T14:35:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-09-03T10:08:29</property>
+    <property name="modified">2019-09-03T10:15:49</property>
     <property name="originalScheme">Google - Light</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -250,6 +250,12 @@
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="555555" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ea4334" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -521,13 +527,20 @@
     <option name="PHP_EXEC_COMMAND_ID">
       <value />
     </option>
+    <option name="PHP_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="34a853" />
+      </value>
+    </option>
     <option name="PHP_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="222222" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
