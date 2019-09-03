@@ -4,22 +4,29 @@
     <property name="created">2019-06-06T14:35:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-09-03T10:15:49</property>
+    <property name="modified">2019-09-03T10:33:48</property>
     <property name="originalScheme">Google - Light</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Operator Mono SSm Lig Book" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Operator Mono SSm Lig Book" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="CARET_COLOR" value="" />
@@ -50,7 +57,10 @@
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="ea4334" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="BLADE_TEXT_BLOCK_BOUNDARY">
       <value />
@@ -139,6 +149,29 @@
         <option name="FOREGROUND" value="fcbc05" />
       </value>
     </option>
+    <option name="CSS.ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="4285f4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CSS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="4285f4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="34a853" />
+      </value>
+    </option>
+    <option name="CSS.PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="4285f4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="EFFECT_COLOR" value="222222" />
@@ -160,6 +193,11 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value />
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="ea4334" />
+      </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
@@ -190,9 +228,7 @@
       <value />
     </option>
     <option name="DEFAULT_ENTITY">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
@@ -207,21 +243,13 @@
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="ea4334" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value />
     </option>
-    <option name="DEFAULT_INTERFACE_NAME">
-      <value>
-        <option name="FOREGROUND" value="ea4334" />
-      </value>
-    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="ea4334" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
@@ -242,7 +270,9 @@
       </value>
     </option>
     <option name="DEFAULT_METADATA">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value />
@@ -254,7 +284,6 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ea4334" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -290,7 +319,6 @@
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="BACKGROUND" value="fcbc05" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -520,17 +548,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
     <option name="PHP_CONCATENATION">
       <value />
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value />
-    </option>
-    <option name="PHP_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="34a853" />
-      </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
       <value>
@@ -538,13 +560,17 @@
       </value>
     </option>
     <option name="PHP_PARAMETER">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
         <option name="FOREGROUND" value="34a853" />
+      </value>
+    </option>
+    <option name="PHP_PRIMITIVE_TYPE_HINT">
+      <value>
+        <option name="FOREGROUND" value="ea4334" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_VAR">
