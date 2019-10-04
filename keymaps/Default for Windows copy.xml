@@ -1,0 +1,7 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Hg.Commit.And.Push.Executor" />
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+</keymap>
