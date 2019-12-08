@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4c7e8c37-175f-4f47-846c-dcd1318fba4c" name="GeMax Online" url="https://app.gemax-online.de/login/">
+        <fileTransfer host="85.14.243.80" port="22" rootFolder="/var/lib/lxd/containers/www01/rootfs/var/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
