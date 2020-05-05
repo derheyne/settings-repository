@@ -32,6 +32,7 @@
       <mapping pattern="payload" type="PLAIN_TEXT" />
       <mapping pattern="exactOnline" type="PLAIN_TEXT" />
       <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
+      <mapping pattern="Livewire " type="PLAIN_TEXT" />
       <mapping pattern="contentBlockMenu" type="PLAIN_TEXT" />
       <mapping pattern="25" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
