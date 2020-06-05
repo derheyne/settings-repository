@@ -29,6 +29,8 @@
       <sshConfig authType="PASSWORD" host="85.14.243.80" id="4cc46309-6cc7-4c51-b647-c0e71080fbe1" port="22" customName="GeMax vx02" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="85.14.243.80" id="1bb8a0c4-303e-4831-a49d-89bcd3068357" port="22" customName="GeMax Online" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="85.14.243.80" id="258d38b6-11af-4a44-81f5-76f47af25fe7" port="22" customName="GeMax vx02" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="85.14.243.80" id="85b516e7-26f7-4c05-af69-f50b65966232" port="22" customName="GeMax Online" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="85.14.243.80" id="7d613c32-ad33-48b5-b6d6-565ca21d9ee5" port="22" customName="GeMax vx02" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
