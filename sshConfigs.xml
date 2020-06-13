@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="85.14.243.80" id="cb24848d-39e9-44b7-a634-a77ef98888fa" port="22" customName="GeMax Online" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="85.14.243.80" id="bbf8339f-2727-4961-b6ec-febc50a8967c" port="22" customName="GeMax Online" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
