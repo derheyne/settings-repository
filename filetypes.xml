@@ -2,8 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".php_cs" type="PHP" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="phpstorm" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".exports" type="Shell Script" />
+      <mapping pattern=".wgetrc" type="Shell Script" />
+      <mapping pattern=".aliases" type="Shell Script" />
+      <mapping pattern=".functions" type="Shell Script" />
+      <mapping pattern="nanorc" type="Shell Script" />
       <removed_mapping pattern=".php_cs" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
