@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="phpstorm" type="PLAIN_TEXT" />
       <removed_mapping pattern=".php_cs" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
