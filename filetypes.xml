@@ -5,6 +5,7 @@
       <mapping pattern="phpstorm" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".exports" type="Shell Script" />
+      <mapping pattern=".inputrc" type="Shell Script" />
       <mapping pattern=".wgetrc" type="Shell Script" />
       <mapping pattern=".screenrc" type="Shell Script" />
       <mapping pattern=".aliases" type="Shell Script" />
