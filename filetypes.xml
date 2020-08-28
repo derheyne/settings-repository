@@ -10,6 +10,7 @@
       <mapping pattern=".wgetrc" type="Shell Script" />
       <mapping pattern=".screenrc" type="Shell Script" />
       <mapping pattern=".aliases" type="Shell Script" />
+      <mapping pattern="cheat" type="Shell Script" />
       <mapping pattern=".functions" type="Shell Script" />
       <mapping pattern="nanorc" type="Shell Script" />
       <removed_mapping pattern=".php_cs" approved="true" type="PLAIN_TEXT" />
