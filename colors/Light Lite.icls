@@ -4,7 +4,7 @@
     <property name="created">2019-06-06T14:35:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-08-27T11:03:17</property>
+    <property name="modified">2020-12-07T00:08:00</property>
     <property name="originalScheme">Google - Light</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -13,7 +13,7 @@
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
