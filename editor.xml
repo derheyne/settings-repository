@@ -36,6 +36,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
