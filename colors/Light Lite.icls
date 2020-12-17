@@ -4,12 +4,12 @@
     <property name="created">2019-06-06T14:35:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-12-17T11:06:18</property>
+    <property name="modified">2020-12-17T13:16:48</property>
     <property name="originalScheme">Google - Light</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
-  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_SIZE" value="21" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
