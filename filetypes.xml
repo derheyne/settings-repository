@@ -6,6 +6,7 @@
       <mapping pattern=".hushlogin" type="PLAIN_TEXT" />
       <mapping pattern="phpstorm" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="bak2" type="PLAIN_TEXT" />
       <mapping ext="itermcolors" type="PLAIN_TEXT" />
       <mapping pattern=".exports" type="Shell Script" />
       <mapping pattern=".inputrc" type="Shell Script" />
