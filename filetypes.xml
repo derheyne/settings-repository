@@ -22,6 +22,7 @@
       <mapping pattern="cheat" type="Shell Script" />
       <mapping pattern=".functions" type="Shell Script" />
       <mapping pattern="nanorc" type="Shell Script" />
+      <mapping ext="neon" type="YAML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".php_cs" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
