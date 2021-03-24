@@ -5,6 +5,7 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
       <mapping pattern="passwordfile" type="AUTO_DETECTED" />
+      <mapping pattern="php-security-checker" type="AUTO_DETECTED" />
       <mapping ext="bak" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".hushlogin" type="PLAIN_TEXT" />
