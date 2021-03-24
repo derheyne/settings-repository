@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Docker" />
-    <option name="defaultScopeName" value="Docker" />
-    <option name="SEARCH_SCOPE" value="Docker" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.inc</mask>
     <mask>*.ctp</mask>
