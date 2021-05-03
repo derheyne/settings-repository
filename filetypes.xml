@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".postgresql.env.example" type=".env file" />
+      <mapping pattern=".registry.env.example" type=".env file" />
+      <mapping pattern=".gitlab.env.example" type=".env file" />
       <mapping pattern="passwd" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
