@@ -17,6 +17,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="de" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="bak2" type="PLAIN_TEXT" />
       <mapping ext="itermcolors" type="PLAIN_TEXT" />
       <mapping pattern=".exports" type="Shell Script" />
