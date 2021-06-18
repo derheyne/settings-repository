@@ -11,6 +11,7 @@
       <mapping pattern="php-security-checker" type="AUTO_DETECTED" />
       <mapping pattern="changelogs" type="AUTO_DETECTED" />
       <mapping ext="bak" type="Dockerfile" />
+      <mapping ext="ini-overrides" type="Ini" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".hushlogin" type="PLAIN_TEXT" />
       <mapping pattern="phpstorm" type="PLAIN_TEXT" />
