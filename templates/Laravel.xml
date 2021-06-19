@@ -1,5 +1,5 @@
 <templateSet group="Laravel">
-  <template name="it" value="/** @test */&#10;public function it_$NAME$()&#10;{&#10;    $TEST$&#10;}" description="Create a PhpUnit test method" toReformat="false" toShortenFQNames="true">
+  <template name="it" value="/** @test */&#10;public function it_$NAME$(): void&#10;{&#10;    $TEST$&#10;}" description="Create a PhpUnit test method" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
