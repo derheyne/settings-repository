@@ -49,6 +49,10 @@
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <VueCodeStyleSettings>
+    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template,style,script" />
+    <option name="UNIFORM_INDENT" value="false" />
+  </VueCodeStyleSettings>
   <yaml>
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
   </yaml>
@@ -119,6 +123,12 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Vue">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
