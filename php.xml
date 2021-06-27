@@ -4,18 +4,23 @@
     <interpreters>
       <interpreter id="6492bb4b-6faf-4d99-9093-993c92312f06" name="PHP 7.3" home="D:/Programme/xampp/php/php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="7fce6dfc-5258-4b92-94b0-c284007de43e" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.15/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="2de47816-afa4-4ee9-87ce-a071676f0dde" name="PHP 8.0" home="/usr/local/Cellar/php/8.0.7/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.15/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.15/bin/php" path_separator=":" version="7.4.15">
-          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
+      <interpreter name="PHP 8.0">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.0.7/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.0.7/bin/php" path_separator=":" version="8.0.7">
+          <additional_php_ini>/usr/local/etc/php/8.0/conf.d/error_log.ini, /usr/local/etc/php/8.0/conf.d/ext-opcache.ini, /usr/local/etc/php/8.0/conf.d/php-memory-limits.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/8.0/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.15/share/php@7.4/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.0.7/share/php/pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="3.0.4">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="FFI" />
@@ -75,9 +80,9 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
-            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="zip" />
